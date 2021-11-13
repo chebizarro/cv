@@ -1,0 +1,7 @@
+# ignore folders
+
+examples
+
+# ignore temporary tex files
+
+*.swp
