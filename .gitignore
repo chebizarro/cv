@@ -1,7 +1,14 @@
 # ignore folders
-
 examples
 
-# ignore temporary tex files
+# IDE
+.vscode
 
+# ignore temporary tex files
 *.swp
+*.aux
+*.bcf
+*.log
+*.out
+*.run.xml
+*.synctex.gz
